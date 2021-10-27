@@ -1,6 +1,6 @@
 import numpy as np
 from util import readFile, addW0, unison_shuffled_copies
-from PLA_algorithm import PLA_naive_cycle_with_LR
+from PLA_algorithm import PLA_with_LR
 
 filePath = 'homework\hw1\data\hw1_15_train.dat'
 
@@ -10,7 +10,7 @@ X = addW0(X)
 print(X.shape)
 print(y.shape)
 
-pla_lr = PLA_naive_cycle_with_LR(0.5)
+pla_lr = PLA_with_LR(0.5)
 
 T_sum = 0
 expTimes = 2000

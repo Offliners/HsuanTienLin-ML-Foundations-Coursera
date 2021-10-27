@@ -1,11 +1,11 @@
 import numpy as np
 
-class PLA_naive_cycle:
+class PLA:
     """
         Initial weight w is 0
         Take sign(0) = -1
         Halt condition is that all datas are classified correctly.
-        This program will return update times (T) of PLA in naive cycle order. 
+        This program will return update times (T) of PLA. 
     """
     def __init__(self):
         pass
@@ -32,13 +32,13 @@ class PLA_naive_cycle:
         
         return T
 
-class PLA_naive_cycle_with_LR:
+class PLA_with_LR:
     """
         Initial weight w is 0
         Take sign(0) = -1
         You can set your own learning rate.
         Halt condition is that all datas are classified correctly.
-        This program will return update times (T) of PLA in naive cycle order. 
+        This program will return update times (T) of PLA. 
     """
     def __init__(self, lr):
         self.lr = lr
