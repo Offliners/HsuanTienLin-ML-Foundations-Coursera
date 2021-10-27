@@ -14,7 +14,7 @@ Coursera 機器學習基石(上) (by Prof. Hsuan Tien Lin) [Link](https://www.co
 
 * 第四周 : Feasibility of Learning
    * [04_handout](handout/04_handout.pdf)
-   * [homework#1](hw1/HW1.md)
+   * [homework#1](homework/hw1/HW1.md)
 
 ## Reference
 * LEARNING FROM DATA (ISBN : `9781600490064`)
