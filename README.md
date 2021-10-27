@@ -9,6 +9,9 @@ Coursera 機器學習基石(上) (by Prof. Hsuan Tien Lin) [Link](https://www.co
 * 第二周 : Learning to Answer Yes/No
    * [02_handout](handout/02_handout.pdf)
 
+* 第三周 : Types of Learning
+   * [03_handout](handout/03_handout.pdf)
+
 ## Reference
 * LEARNING FROM DATA (ISBN : `9781600490064`)
 
