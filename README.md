@@ -30,6 +30,29 @@ Coursera 機器學習基石(上)(下) (by Prof. Hsuan Tien Lin) [Link](https://w
    * [08_handout](handout/08_handout.pdf)
 
 ### 機器學習基石(下)
+* 第九周 : Linear Regression
+   * [09_handout](handout/09_handout.pdf)
+
+* 第十周 : Logistic Regression
+   * [10_handout](handout/10_handout.pdf)
+
+* 第十一周 : Linear Models for Classification
+   * [11_handout](handout/11_handout.pdf)
+
+* 第十二周 : Nonlinear Transformation
+   * [12_handout](handout/12_handout.pdf)
+
+* 第十三周 : Hazard of Overfitting
+   * [13_handout](handout/13_handout.pdf)
+
+* 第十四周 : Regularization
+   * [14_handout](handout/14_handout.pdf)
+
+* 第十五周 : Validation
+   * [15_handout](handout/15_handout.pdf)
+
+* 第十六周 : Three Learning Principles
+   * [16_handout](handout/16_handout.pdf)
 
 ## Reference
 * LEARNING FROM DATA (ISBN : `9781600490064`)
