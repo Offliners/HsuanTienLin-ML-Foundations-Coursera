@@ -1,4 +1,4 @@
-# HsuanTienLin ML Foundations Coursera (by Prof. Hsuan Tien Lin)
+# Machine Learning Foundations Coursera (by Prof. Hsuan Tien Lin)
 
 Coursera 機器學習基石(上) : [Link](https://www.coursera.org/learn/ntumlone-mathematicalfoundations?)
 
